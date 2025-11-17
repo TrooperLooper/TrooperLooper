@@ -1,7 +1,8 @@
 # Hi, I'm Lars 👋
 Im a Fullstack Developer from Sweden, with a mind of a designer. Professional storyboard artist & illustrator, with a keen interest in pushing the envelope in visual storytelling with new technologies.I pride on making my own graphics, animations and illustrations for my projects to give them a unique feel.
 
-- 🌱 I’m currently learning backend development @Sundsgården Folkhöskola.
+- ✅ Graduated as Front End developer in 2025
+- 🌱 I’m currently learning backend development @Sundsgården Folkhöskola
 - 👯 Open for job opportunities in Malmö/ Copenhagen!
 
 
