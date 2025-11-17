@@ -1,13 +1,12 @@
 ## Hi, I'm Lars 👋
 Im a Fullstack Developer from Sweden, with a mind of a designer. 🎨 
 
-- ✅ Graduated as Front End developer in 2025
-- 🌱 Soon to graduate Backend development @Sundsgården Folkhöskola (10.1.25)
+- ✅ Graduated as Front End developer in 2025 🌱 Soon to graduate Backend development (10.1.25)
 - 👯 Open for job opportunities in Malmö/ Copenhagen!
 
 
 ### 🛠️ Skills
-** JavaScript, REST, Usability, TypeScript, Design
+_ _ JavaScript, REST, Usability, TypeScript, Design
 
 - Frontend * CSS, HTML, React.JS, Tailwind, Lottiefiles
 - Backend * Express.JS, Docker, Winston Logger, Express, Node.JS, Firebase
