@@ -18,4 +18,3 @@ Im a Fullstack Developer from Sweden, with a mind of a designer. Professional st
 - [Instagram](https://www.instagram.com/lars_munck/)
 - [Portfolio](https://www.recap.dk)
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TrooperLooper&style=flat-square&color=blue" alt="TrooperLooper" /> </p>
