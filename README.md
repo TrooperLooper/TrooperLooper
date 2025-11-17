@@ -6,6 +6,7 @@ Im a Fullstack Developer from Sweden, with a mind of a designer. 🎨
 
 
 ### 🛠️ Skills
+* * JavaScript, REST, Usability, TypeScript, Design
 _ _ JavaScript, REST, Usability, TypeScript, Design
 
 - Frontend * CSS, HTML, React.JS, Tailwind, Lottiefiles
