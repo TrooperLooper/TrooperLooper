@@ -6,7 +6,7 @@ Im a Fullstack Developer from Sweden, with a mind of a designer. Professional st
 
 
 ## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,vite,npm,mongodb,insomnia,postgress,prisma,docker,express,firebase,jest,vscode,figma,xd,git,ai,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,vite,npm,mongodb,postgres,prisma,docker,express,firebase,jest,vscode,figma,xd,git,ai,ps,pr)](https://skillicons.dev)
 
 ## 📂 Featured Projects
 - [GameTime Tracker]🎮 (https://github.com/TrooperLooper/Final_assesment) – A game tracking application with a colorfull retro-feel (mongodb, REST API, winston logger, docker, insomnia)
