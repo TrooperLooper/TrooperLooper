@@ -9,9 +9,9 @@ Im a Fullstack Developer from Sweden, with curious & creative mind. 🎨
 JavaScript, REST, Usability, TypeScript, Design
 
 - Frontend - CSS, HTML, React, Tailwind
-- Backend - Express.JS, Docker, Winston Logger, Express, Node.JS, TS, Firebase
+- Backend - Express.JS, Docker, Winston Logger, Express, Node.JS, Firebase
 - Databsae - PostgreSQL, MongoDB
-- Other - GitHub, Figma/ Adobe XD, Jest, Git, TDD, Adobe Creative Suite
+- Other - GitHub, Figma/ Adobe XD, TS, Jest, Git, TDD, Adobe Creative Suite
 
 ### 📂 Featured Projects
 
