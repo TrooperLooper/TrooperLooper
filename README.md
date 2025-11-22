@@ -15,8 +15,8 @@ JavaScript, REST, Usability, TypeScript, Design
 
 ### 📂 Featured Projects
 
-- [GameTime Tracker] 🎮⏳
+- [GameTime Tracker] 🎮⏳<br>
   (https://github.com/TrooperLooper/Final_assesment) – A game tracking application with a colorfull retro-feel (MERN, REST API, winston logger, docker)
   
-- [ToDoApp] 📌🗒️
-  (https://github.com/TrooperLooper/ToDoApp) – A neat task management app with wether api wrapped in 1950´s estehic (React, Tailwind, CRUD & weather API integration. TS & ESLint).
+- [Retro ToDoApp] 📌🗒️ <br>
+  (https://github.com/TrooperLooper/ToDoApp) – A neat task management app with wether api with a 1950´s styling! (React, Tailwind, CRUD & weather API integration)
