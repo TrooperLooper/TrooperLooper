@@ -1,7 +1,8 @@
 # Hi, I'm Lars 👋
 Im a Fullstack Developer from Sweden, with curious & creative mind. 🎨 <br><br>
 <i>
-- ✅ Graduated as Front End developer in 2025 🌱 Soon to graduate Backend development (10.1.25)
+- ✅ Graduated as Front End developer in 2025
+- 🌱 Soon to graduate Backend development (10.1.25)
 - 👯 Open for job opportunities in Malmö/ Copenhagen!</i>
 
 
