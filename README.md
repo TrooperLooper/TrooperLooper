@@ -18,6 +18,7 @@ JavaScript, REST, Usability, TypeScript, Design
 
 - [GameTime Tracker] 🎮⏳<br>
   (https://github.com/TrooperLooper/Final_assesment) <br>– A game tracking application with a colorfull retro-gaming feel (MERN, REST API, winston logger, docker)
+  <br>
   To see the deployed app: https://retro-timer-two.vercel.app
   
 - [Retro ToDoApp] 📌🗒️<br>
