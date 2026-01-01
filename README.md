@@ -23,10 +23,10 @@ JavaScript, REST, Usability, TypeScript, Design
   To test the deployed app: https://retro-timer-two.vercel.app
 
 - [Magic Workday Timer] ⏱️✨<br>
-  (https://github.com/TrooperLooper/MagicTimer) <br>
+  (https://github.com/TrooperLooper/magic-workday-timer) <br>
   – A smart Pomodoro timer designed to manage work/break balace and tracking complete workdays. Features circular minute countdown, progress pills, and star rewards (React, TypeScript, Vite, custom SVG graphics)
   <br>
-  To test the deployed app: https://your-vercel-domain.vercel.app
+  To test the deployed app: https://magic-workday-timer.vercel.app
  
   
 - [ToDoApp] 📌🗒️<br>
