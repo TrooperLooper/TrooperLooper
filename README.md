@@ -17,9 +17,10 @@ JavaScript, REST, Usability, TypeScript, Design
 
 - [RetroTimer] 🎮🌈<br>
   (https://github.com/TrooperLooper/RetroTimer) <br>
-  – Fullstack game timer with dynamic gradients and responsive design. Live leaderboards & player stats (MERN, Vite, MongoDB Atlas, Railway, Vercel)
+  – Fullstack game timer where users can "play games" and keep track of the time they played each game. with statistics Live leaderboards & player stats (MERN, Vite, MongoDB Atlas, Railway, Vercel)
   <br>
   To test the deployed app: https://retro-timer-two.vercel.app
+   of how much they played each game and compare it with others.
 
 - [Magic Workday Timer] ⏱️✨<br>
   (https://github.com/TrooperLooper/magic-workday-timer) <br>
