@@ -28,7 +28,7 @@ JavaScript, REST, Usability, TypeScript, Design
   To test the deployed app: https://magic-workday-timer.vercel.app
  
   
-- [Daily 2-DoApp] 📌🗒️<br>
+- [Todays 2-Do App] 📌🗒️<br>
   (https://github.com/TrooperLooper/ToDoApp) <br>– A neat task management, weather api, with a 1950´s styling (React, Tailwind, CRUD & weather API integration)
 
 
