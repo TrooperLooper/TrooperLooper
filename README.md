@@ -15,7 +15,7 @@ JavaScript, REST, Usability, TypeScript, Design
 
 ### 📂 Featured Projects
 
-- [RetroTimer] 🎮🌈<br>
+- [GameTimeTracker] 🎮🌈<br>
   (https://github.com/TrooperLooper/GameTimeTracker) <br>
   – Fullstack game timer where users can "play games" and keep track of the time they played each game. with statistics Live leaderboards & player stats (MERN, Vite, MongoDB Atlas, Railway, Vercel)
   <br>
@@ -28,7 +28,7 @@ JavaScript, REST, Usability, TypeScript, Design
   To test the deployed app: https://magic-workday-timer.vercel.app
  
   
-- [ToDoApp] 📌🗒️<br>
+- [Daily 2-DoApp] 📌🗒️<br>
   (https://github.com/TrooperLooper/ToDoApp) <br>– A neat task management, weather api, with a 1950´s styling (React, Tailwind, CRUD & weather API integration)
 
 
