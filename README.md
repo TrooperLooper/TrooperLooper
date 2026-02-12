@@ -11,7 +11,7 @@ JavaScript, REST, Usability, TypeScript, Design
 - Frontend - CSS, HTML, Javascript, React+Vite, Tailwind
 - Backend - Node.JS, Express.JS, Docker, Winston Logger, Zod 
 - Database - MongoDB, PostgreSQL, Firebase/ Firestore
-- Other - GitHub, Figma, TS, Jest, Git, TDD, Adobe Creative Suite
+- Other - Git/GitHub, Figma, Jest, TDD, Adobe Creative Suite
 
 ### 📂 Featured Projects
 
