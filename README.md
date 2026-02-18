@@ -1,5 +1,5 @@
 # Hi, I'm Lars 👋
-Im a Fullstack Developer from Sweden, with a productive & creative mind. 🎨 <br><br>
+Im a Fullstack Developer from Sweden, with an adventurous & creative mind. 🎨 <br><br>
 <i>
 - ✅ Graduated as Fullstack developer in 2026
 - 👯 Open for job opportunities in Malmö/ Lund/ Copenhagen area</i>
