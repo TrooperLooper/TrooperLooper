@@ -2,7 +2,7 @@
 Im a Fullstack Developer from Sweden, with an adventurous & creative mind. 🎨 <br><br>
 <i>
 - ✅ Graduated as Fullstack developer in 2026
-- 30 years experience in Visual communication. MFA.
+- 🖌️ 30 years experience in Visual communication. MFA.
 - 👯 Open for job opportunities in Malmö/ Lund/ Copenhagen area</i>
 
 
