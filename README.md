@@ -22,6 +22,11 @@ JavaScript, REST, Usability, TypeScript, TDD, Design
   <br>
   Live link: https://retro-timer-two.vercel.app
 
+- [Klädkollen] 👕☀️<br>
+- Graduation project (team): Fullstack mobile app (React Expo/ Native) that supports neurodivergent parents deciding what their child should wear each day.
+My role: Lead developer, UX & designer.
+Code is private due to planned commercial launch (TBA).
+
 - [Magic Workday Timer] ⏱️✨<br>
   (https://github.com/TrooperLooper/magic-workday-timer) <br>
   – A smart Pomodoro timer designed to manage work/break balace and tracking complete workdays. Features circular minute countdown, progress pills, and star rewards (React, Vite, TypeScript,  custom SVG graphics)
