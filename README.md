@@ -23,7 +23,7 @@ JavaScript, REST, Usability, TypeScript, TDD, Design
   Live link: https://retro-timer-two.vercel.app
 
 - [Klädkollen] 👕☀️<br>
-- Graduation project (team): Fullstack mobile app (React Expo/ Native) that supports neurodivergent parents deciding what their child should wear each day.
+  Graduation project (team): Fullstack mobile app (React Expo/ Native) that supports neurodivergent parents deciding what their child should wear each day.
 My role: Lead developer, UX & designer.
 Code is private due to planned commercial launch (TBA).
 
