@@ -19,8 +19,7 @@ JavaScript, REST, Usability, TypeScript, TDD, Design
 - [GameTimeTracker] 🎮🌈<br>
   (https://github.com/TrooperLooper/GameTimeTracker) <br>
   – Fullstack game timer where users can "play games" and keep track of the time they played each game. with statistics Live leaderboards & player stats (React, Vite, MongoDB Atlas, Express, REST, Railway, Vercel, Custom UI)
-  <br>
-  Live link: https://retro-timer-two.vercel.app
+  
 
 - [Klädkollen] 👕☀️<br>
   Graduation project (team): Fullstack mobile app (React Expo/ Native) that supports neurodivergent parents deciding what their child should wear each day.
