@@ -1,42 +1,40 @@
 # Hi, I'm Lars 👋
-Im a Fullstack Developer from Sweden, with an adventurous & creative mind. 🎨 <br><br>
+I'm a Fullstack Developer from Sweden, with an adventurous & creative mind. 🎨
+
+**[🌐 View My Portfolio](https://munck-portfolio.vercel.app)** | Malmö, Sweden
+
 <i>
 - ✅ Graduated as Fullstack developer in 2026
 - 🖌️ 30 years experience in Visual communication. MFA.
-- 👯 Open for job opportunities in Malmö/ Lund/ Copenhagen area</i>
-
+- 👯 Open for job opportunities in Malmö/Lund/Copenhagen area
+</i>
 
 ### 🛠️ Skills
 JavaScript, REST, Usability, TypeScript, TDD, Design
 
 - Frontend - CSS, HTML, Javascript, React+Vite, Tailwind
 - Backend - Node.JS, Express.JS, Docker, Winston Logger, Zod 
-- Database - MongoDB, PostgreSQL, Firebase/ Firestore
+- Database - MongoDB, PostgreSQL, Firebase/Firestore
 - Other - Git/GitHub, Figma, Jest, ESLint, Prettier, React EXPO, Adobe Creative Suite
 
 ### 📂 Featured Projects
 
-- [GameTimeTracker] 🎮🌈<br>
-  (https://github.com/TrooperLooper/GameTimeTracker) <br>
-  – Fullstack game timer where users can "play games" and keep track of the time they played each game. with statistics Live leaderboards & player stats (React, Vite, MongoDB Atlas, Express, REST, Railway, Vercel, Custom UI)
+- **GameTimeTracker** 🎮🌈  
+  Fullstack game timer with live leaderboards & player stats  
+ **[Code](https://github.com/TrooperLooper/GameTimeTracker)**  
+  *React, Vite, MongoDB Atlas, Express, REST, Railway, Vercel*
 
-  
-- [Todays 2-Do App] 📌🗒️<br>
-  (https://github.com/TrooperLooper/ToDoApp) <br>– A neat task management, weather api, with a 1950´s styling (React, Tailwind, CRUD & weather API integration, custom UI)
-  <br>
- Live link: https://todays-todoapp.vercel.app
+- **Today's 2-Do App** 📌🗒️  
+  Task management with weather API and 1950s styling  
+  **[Demo](https://todays-todoapp.vercel.app)** | **[Code](https://github.com/TrooperLooper/ToDoApp)**  
+  *React, Tailwind, CRUD, Weather API, Custom UI*
 
+- **Klädkollen** 👕☀️  
+  Graduation project (team) — Fullstack mobile app for neurodivergent parents  
+  Lead developer, UX & Designer | *React Expo/Native, Firebase, Firestore*  
+  Code private due to planned commercial launch (TBA)
 
-- [Klädkollen] 👕☀️<br>
-  Graduation project (team): Fullstack mobile app (React Expo/ Native) that supports neurodivergent parents deciding what their child should wear each day.
-My role: Lead developer, UX & designer.
-Code is private due to planned commercial launch (TBA).
-
-
-- [Magic Workday Timer] ⏱️✨<br>
-  (https://github.com/TrooperLooper/magic-workday-timer) <br>
-  – A smart Pomodoro timer designed to manage work/break balace and tracking complete workdays. Features circular minute countdown, progress pills, and star rewards (React, Vite, TypeScript,  custom SVG graphics)
-  <br>
- Live link: https://magic-workday-timer.vercel.app
-
-
+- **Magic Workday Timer** ⏱️✨  
+  Smart Pomodoro timer with progress tracking & rewards  
+  **[Demo](https://magic-workday-timer.vercel.app)** | **[Code](https://github.com/TrooperLooper/magic-workday-timer)**  
+  *React, Vite, TypeScript, Custom SVG Graphics*
