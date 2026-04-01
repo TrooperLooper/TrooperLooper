@@ -4,9 +4,9 @@ I'm a Fullstack Developer from Sweden, with an adventurous & creative mind. 🎨
 **[🌐 View My Portfolio](https://munck-portfolio.vercel.app)** | Malmö, Sweden
 
 <i>
-- ✅ Graduated as Fullstack developer in 2026
-- 🖌️ 30 years experience in Visual communication. MFA.
-- 👯 Open for job opportunities in Malmö/Lund/Copenhagen area
+- ✅ Graduated as Fullstack developer in 2026 <br>
+- 🖌️ 30 years experience in Visual communication. MFA.<br>
+- 👯 Open for job opportunities in Malmö/Lund/Copenhagen area<br>
 </i>
 
 ### 🛠️ Skills
@@ -20,7 +20,7 @@ JavaScript, REST, Usability, TypeScript, TDD, Design
 ### 📂 Featured Projects
 
 - **GameTimeTracker** 🎮🌈  
-  Fullstack game timer with live leaderboards & player stats  
+  Fullstack game timer with live leaderboards & player stats
  **[Code](https://github.com/TrooperLooper/GameTimeTracker)**  
   *React, Vite, MongoDB Atlas, Express, REST, Railway, Vercel*
 
