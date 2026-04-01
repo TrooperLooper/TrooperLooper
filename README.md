@@ -24,7 +24,7 @@ JavaScript, REST, Usability, TypeScript, TDD, Design
 ### 📂 Featured Projects
 
 - **GameTimeTracker** 🎮🌈  
-  Fullstack game timer with live leaderboards & player stats
+  Fullstack game timer with live leaderboards & player stats <br>
  **[Code](https://github.com/TrooperLooper/GameTimeTracker)**  
   *React, Vite, MongoDB Atlas, Express, REST, Railway, Vercel*
 
