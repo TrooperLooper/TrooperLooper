@@ -35,7 +35,7 @@ JavaScript, REST, Usability, TypeScript, TDD, Design
 
 - **Klädkollen** 👕☀️  
   Graduation project (team) — Fullstack mobile app for neurodivergent parents  
-  Lead developer, UX & Designer | *React Expo/Native, Firebase, Firestore*  
+  Lead developer, UX & Designer | *React Expo/Native*  
   Code private due to planned commercial launch (TBA)
 
 - **Magic Workday Timer** ⏱️✨  
