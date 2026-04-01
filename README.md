@@ -1,13 +1,15 @@
 # Hi, I'm Lars 👋
 I'm a Fullstack Developer from Sweden, with an adventurous & creative mind. 🎨
 
-**[🌐 View My Portfolio](https://munck-portfolio.vercel.app)** | Malmö, Sweden
-
 <i>
 - ✅ Graduated as Fullstack developer in 2026 <br>
 - 🖌️ 30 years experience in Visual communication. MFA.<br>
 - 👯 Open for job opportunities in Malmö/Lund/Copenhagen area<br>
 </i>
+
+**[🌐 View My Portfolio](https://munck-portfolio.vercel.app)** | Malmö, Sweden
+
+---
 
 ### 🛠️ Skills
 JavaScript, REST, Usability, TypeScript, TDD, Design
@@ -16,6 +18,8 @@ JavaScript, REST, Usability, TypeScript, TDD, Design
 - Backend - Node.JS, Express.JS, Docker, Winston Logger, Zod 
 - Database - MongoDB, PostgreSQL, Firebase/Firestore
 - Other - Git/GitHub, Figma, Jest, ESLint, Prettier, React EXPO, Adobe Creative Suite
+
+---
 
 ### 📂 Featured Projects
 
