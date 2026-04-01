@@ -6,7 +6,7 @@ I'm a Fullstack Developer from Sweden, with an adventurous & creative mind. 🎨
 - 🖌️ 30 years experience in Visual communication. MFA.<br>
 - 👯 Open for job opportunities in Malmö/Lund/Copenhagen area<br>
 </i>
-<br><br>
+<br>
 **[🌐 View My Portfolio](https://munck-portfolio.vercel.app)** | Malmö, Sweden
 
 ---
