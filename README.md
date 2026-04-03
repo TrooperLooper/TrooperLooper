@@ -7,7 +7,7 @@ I'm a Fullstack Developer from Sweden, with an adventurous & creative mind. 🎨
 - 👯 Open for job opportunities in Malmö/Lund/Copenhagen area<br>
 </i>
 <br>
-[🌐 View My Portfolio](https://munck-portfolio.vercel.app) | Malmö, Sweden
+<!-- [🌐 View My Portfolio](https://munck-portfolio.vercel.app) | Malmö, Sweden -->
 ---
 
 ### 🛠️ Skills
