@@ -8,7 +8,8 @@ I'm a Fullstack Developer from Sweden, with an adventurous & creative mind. 🎨
 </i>
 <br>
 <!-- [🌐 View My Portfolio](https://munck-portfolio.vercel.app) | Malmö, Sweden -->
-[🌐 View My Portfolio](https://munck-portfolio.vercel.app) | Malmö, Sweden
+[View My Portfolio](https://munck-portfolio.vercel.app)
+| Malmö, Sweden
 ---
 
 ### 🛠️ Skills
