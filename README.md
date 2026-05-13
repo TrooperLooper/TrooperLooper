@@ -23,22 +23,17 @@ JavaScript, REST, Usability, TypeScript, TDD, Design
 
 ### 📂 Featured Projects
 
-- **Ko på Isen** 🐄❄️
-Can a cow stand on ice? Fullstack app combining 100+ years of historical weather, Stefan's ice physics, and Rive animation to find out. <br><br>
+- **Ko på Isen** 🐄❄️<br>
+Can a cow stand on ice? Fullstack app combining 100+ years of historical weather, Stefan's ice physics, and Rive animation to find out. <br>
  **[Demo](https://ko-paa-isen.vercel.app)** | **[Code](https://github.com/TrooperLooper/KoPaaIsen)**  
-*React, Vite, Rive, Express, SQLite, TypeScript, Vercel*
+*React, Vite, Rive, Express, SQLite, TypeScript, Turso, Railway, Vercel*
 
 - **GameTimeTracker** 🎮🌈  
   Fullstack game timer with live leaderboards & player stats <br>
  **[Code](https://github.com/TrooperLooper/GameTimeTracker)**  
-  *React, Vite, MongoDB Atlas, Express, REST, Railway, Vercel*
+  *React, Vite, Express, REST, Railway, MongoDB Atlas, Vercel*
 
 - **Klädkollen** 👕☀️  
   Graduation project (team) — Fullstack mobile app for neurodivergent parents  
   Lead developer, UX & Designer | *React Expo/Native*  
   Code private due to planned commercial launch (TBA)
-
-- **Magic Workday Timer** ⏱️✨  
-  Smart Pomodoro timer with progress tracking & rewards  
-  **[Demo](https://magic-workday-timer.vercel.app)** | **[Code](https://github.com/TrooperLooper/magic-workday-timer)**  
-  *React, Vite, TypeScript, Custom SVG Graphics*
