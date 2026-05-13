@@ -23,6 +23,11 @@ JavaScript, REST, Usability, TypeScript, TDD, Design
 
 ### 📂 Featured Projects
 
+- **Ko på Isen** 🐄❄️
+Fullstack app that demonstrates ice physics,bult on real historical weather data <br>
+ **[Demo](https://ko-paa-isen.vercel.app)** | **[Code](https://github.com/TrooperLooper/KoPaaIsen)**  
+*React, Vite, Rive, Express, SQLite, TypeScript, Vercel*
+
 - **GameTimeTracker** 🎮🌈  
   Fullstack game timer with live leaderboards & player stats <br>
  **[Code](https://github.com/TrooperLooper/GameTimeTracker)**  
