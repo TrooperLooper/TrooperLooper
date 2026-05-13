@@ -33,11 +33,6 @@ Can a cow stand on ice? Fullstack app combining 100+ years of historical weather
  **[Code](https://github.com/TrooperLooper/GameTimeTracker)**  
   *React, Vite, MongoDB Atlas, Express, REST, Railway, Vercel*
 
-- **Today's 2-Do App** 📌🗒️  
-  Task management with weather API and 1950s styling  
-  **[Demo](https://todays-todoapp.vercel.app)** | **[Code](https://github.com/TrooperLooper/ToDoApp)**  
-  *React, Tailwind, CRUD, Weather API, Custom UI*
-
 - **Klädkollen** 👕☀️  
   Graduation project (team) — Fullstack mobile app for neurodivergent parents  
   Lead developer, UX & Designer | *React Expo/Native*  
