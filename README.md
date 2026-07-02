@@ -30,8 +30,9 @@ Can a cow stand on ice? Fullstack app combining 100+ years of historical weather
 
 - **GameTimeTracker** 🎮🌈  
   Fullstack game timer with live leaderboards & player stats <br>
- **[Code](https://github.com/TrooperLooper/GameTimeTracker)**  
+  **[Demo](https://gametrackerlive.vercel.app)** | **[Code](https://github.com/TrooperLooper/GameTimeTracker)**  
   *React, Vite, Express, REST, Railway, MongoDB Atlas, Vercel*
+
 
 - **Klädkollen** 👕☀️  
   Graduation project (team) — Fullstack mobile app for neurodivergent parents  
