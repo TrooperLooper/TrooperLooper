@@ -24,7 +24,7 @@ JavaScript, REST, Usability, TypeScript, TDD, Design
 ### 📂 Featured Projects
 
 - **Ko på Isen** 🐄❄️<br>
-Can a cow stand on ice? Fullstack app combining 100+ years of historical weather,<br> Stefan's ice physics, and Rive animation to find out. <br>
+Fullstack rive animated ice simulator app combining 100+ years of local historical weather,<br> and ice physics. <br>
  **[Demo](https://ko-paa-isen.vercel.app)** | **[Code](https://github.com/TrooperLooper/KoPaaIsen)**  
 *React, Vite, Rive, Express, SQLite, TypeScript, Turso, Railway, Vercel*
 
