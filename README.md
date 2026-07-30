@@ -31,7 +31,7 @@ Fullstack rive animated ice simulator app combining 100+ years of local historic
 - **GameTimeTracker** 🎮🌈  
   Fullstack game timer with live leaderboards & player stats <br>
   **[Demo](https://gametrackerlive.vercel.app)** | **[Code](https://github.com/TrooperLooper/GameTimeTracker)** | **[Status](https://trooperlooper.github.io/gametimer-status/)**
-  *React, Vite, Express, REST, Railway, MongoDB Atlas, Vercel, Sentry*
+  <br>*React, Vite, Express, REST, Railway, MongoDB Atlas, Vercel, Sentry*
 
 
 - **Klädkollen** 👕☀️  
